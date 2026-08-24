@@ -1,2 +1,2 @@
-# ml-project-premium-prediction
+# Premium_Prediction
  Health Insurance Prediction Project
